@@ -169,3 +169,11 @@ These are also discussed in detail in the report.
 - Stanford University — CS221 Game Playing Notes
 - Classical AI Search Literature
 - University of Bolton Report Writing Guidelines
+
+## Group Members:
+
+1. Abduraheem Muzemil   UGR/8538/14  
+2. Abdulnur Hussein    UGR/9498/15  
+3. Akrem Omer          UGR/1192/14  
+4. Khalid Muzemil      UGR/4405/14
+
